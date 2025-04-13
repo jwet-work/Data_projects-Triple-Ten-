@@ -13,5 +13,10 @@ With purchase activity isolated in its own table, we were able to calculate the 
 
 This then allowed us to calculate the overall retention rates month by month, by age ![image](https://github.com/user-attachments/assets/cda921c9-3774-444f-96d0-01ba296bf057)
 
+## Insights 
+Overall CR: 10%. 
+Stage to stage CR: view-->cart: 29%, cart-->purchase: 36%
 
+## Recommendations
 
+Retention rates significanlty drop after 1 month but we see a signigicant growth in users around the holiday season. Focus on maintinaing growth during the holiday season and find retention incentives to maintain usership post-1 month 
