@@ -1,4 +1,4 @@
-# Cohort Analysis 
+# <a href="https://docs.google.com/spreadsheets/d/191FWVlKKGemdO0juMNrabvlMQktuTJyVZ-weMs4uV7E/edit?gid=38637670#gid=38637670" target="blank">Cohort Analysis </a>
 This project required a review of the raw user data from the store's website which pulled:<br> *user_id<br>*event_type	<br>*category_code	<br>*brand	price	<br>*event_date <br>over the span of several months. We then had to:
 1) Create a conversion funnel counting unique users at each of the 3 stages of the funnel. From this, we then added total conversion rates and conversion rates to the data pull. A copy was made from the raw file to make a working version of the raw data which was kept in tact from the original pull. ![image](https://github.com/user-attachments/assets/2b225378-d622-47d4-9c00-9512c3c4c917)
 
